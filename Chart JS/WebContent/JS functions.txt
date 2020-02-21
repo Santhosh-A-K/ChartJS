@@ -1,0 +1,8 @@
+JavaScript Functions:
+
+1.sortLabelAndData(arrayData,arrayLabel) --> used to sort data and label in desc
+2.dataPrepareForWeekChart(finalDateTemp) --> used to prepare data for Weekchart(i.e from "2020/02/07" to "Friday"(5))
+3.assignTopValue() 						 --> used to display barchart with top values 
+4.axesRange(currency,value,label)        --> used to change labels in terms of units with values dynamically
+5.findLabel(dataset)					 --> used to find maximum value and assign units according to it.(i.e 1,000,000 to 1M)
+6.getBarchartData()						 --> used to get Barchart value from query stored variable('sumAmountMrchJs')

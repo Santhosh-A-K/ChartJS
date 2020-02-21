@@ -1,0 +1,30 @@
+[
+  {
+    "label": "high_amount_counts",
+    "no_of_transactions": 10
+  },
+  {
+    "label": "AVG_AMOUNT_DEVIATION_COUNTS",
+    "no_of_transactions": 2
+  },
+  {
+    "label": "INVALID_PIN_FLAG_COUNTS",
+    "no_of_transactions": 6
+  },
+  {
+    "label": "HOTLIST_VPA_FLAG_COUNTS",
+    "no_of_transactions": 0
+  },
+  {
+    "label": "HOTLIST_MOBILE_FLAG_COUNTS",
+    "no_of_transactions": 0
+  },
+  {
+    "label": "BLACKLIST_MOBILE_FLAG_COUNTS",
+    "no_of_transactions": 0
+  },
+  {
+    "label": "QUICK_HIT_FLAG_COUNTS",
+    "no_of_transactions": 4
+  }
+]
